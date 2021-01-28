@@ -1,4 +1,7 @@
-# IAT445 Assignment 1
+# IAT445 Assignment 1  
+  
+Explanation Video - https://youtu.be/sciW9BIYqkg  
+  
 
 Sources Used:  
 For FPS Controller - https://www.youtube.com/watch?v=Gxmx69QVuRY&ab_channel=LeonMarsden  
